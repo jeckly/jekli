@@ -1,2 +1,2 @@
 # jekli
-jekli
+jekli.github.io
